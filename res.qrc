@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>leaf_symbol.png</file>
+        <file>naruto.png</file>
+        <file>rasengan.png</file>
+        <file>zabuza.png</file>
+        <file>naruto_icon.png</file>
+        <file>hinata.png</file>
+        <file>hinata_icon.png</file>
+        <file>lion_fist.png</file>
+        <file>background.png</file>
+        <file>pein.png</file>
+        <file>itachi.png</file>
+        <file>deidara.png</file>
+        <file>orochimaru.png</file>
+        <file>zetsu.png</file>
+        <file>sasuke.png</file>
+        <file>ino.png</file>
+        <file>kiba.png</file>
+        <file>neji.png</file>
+        <file>rocklee.png</file>
+        <file>sai.png</file>
+        <file>shikamaru.png</file>
+        <file>tenten.png</file>
+        <file>ino_icon.png</file>
+        <file>kiba_icon.png</file>
+        <file>neji_icon.png</file>
+        <file>rocklee_icon.png</file>
+        <file>sai_icon.png</file>
+        <file>shikamaru_icon.png</file>
+        <file>tenten_icon.png</file>
+        <file>tobi.png</file>
+        <file>kakashi.png</file>
+        <file>akamaru.png</file>
+        <file>kick.png</file>
+        <file>kunai.png</file>
+        <file>mind_transfer.png</file>
+        <file>shadow.png</file>
+        <file>tiger.png</file>
+        <file>trigram.png</file>
+        <file>chidori.png</file>
+        <file>one_circle.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bgsound.mp3</file>
+    </qresource>
+</RCC>
