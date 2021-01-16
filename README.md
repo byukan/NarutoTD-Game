@@ -6,3 +6,4 @@ To play, you would need to download Qt and build/compile "main.cpp". The game pl
 
 ## YouTube Video Link
 [![Alt text](https://img.youtube.com/vi/m__PAp54srM/maxresdefault.jpg)](https://www.youtube.com/watch?v=m__PAp54srM)
+https://www.youtube.com/watch?v=m__PAp54srM
